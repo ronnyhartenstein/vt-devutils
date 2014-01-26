@@ -15,7 +15,7 @@ put the vt-devutils folder into the modules directory in your shop.
 You will find the code snippet in the module description in OXID backend
 
 
-LICENSE AGREEMEN
+LICENSE AGREEMENT
 ------------
 Copyright (C) 2012  Marat Bedoev
 
